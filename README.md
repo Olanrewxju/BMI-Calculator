@@ -1,16 +1,17 @@
-# bmicalc
+# Body Mass Index (BMI) Calculator
 
-A new Flutter project.
+Your BMI, or Body Mass Index, is a measure of your weight compared to your height. 
 
-## Getting Started
+I used Flutter themes to create coherent branding.  
+I created multi-pages using Flutter Routes and Navigator.  
+I extracted and refactored Flutter Widgets with a click of the button.  
+I passed functions as parameters and fields.  
+I used the GestureDetector Widget to detect more than just a tap.  
+I used custom colour palettes by using hex codes.  
+I customised Flutter Widgets to achieve a specific design style.  
+I used Dart Enums and the Ternary Operator.  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/94402081/145746446-c58f27e6-6365-45c3-9a10-0ae7619d6ec5.mov
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
